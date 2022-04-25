@@ -1,4 +1,4 @@
-# Prob;ems in Python
+# Problems in Python
 
 Solutions in python for CF problems
 Links:

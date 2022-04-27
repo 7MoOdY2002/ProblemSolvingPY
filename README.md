@@ -12,3 +12,5 @@ Links:
   https://codeforces.com/problemset/problem/155/A
 
   https://codeforces.com/problemset/problem/750/A
+  
+  https://codeforces.com/problemset/problem/581/A

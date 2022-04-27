@@ -14,3 +14,5 @@ Links:
   https://codeforces.com/problemset/problem/750/A
   
   https://codeforces.com/problemset/problem/581/A
+  
+  https://codeforces.com/problemset/problem/427/A
